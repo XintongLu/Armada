@@ -1,0 +1,34 @@
+.addbox {
+	position: absolute;
+	left: 20%;
+	width: 60%;
+	height: 150%;
+	padding: 5%;
+	background-color: #fffffd;
+	box-shadow: 8px 15px 20px rgba(0, 0, 0, 0.2);
+	border-radius: 10px;
+	min-width: 200px;
+	overflow: auto;
+}
+
+form{
+	position: relative;
+	margin: 0 auto;
+	vertical-align: middle;
+	
+}
+
+label{
+	font-weight: bold;
+	
+}
+
+#detail{
+	color: #174867;
+	font-weight: bold;
+}
+
+.form-group span.required {
+	color: #ff0000;
+	font-size: 150%;
+}
